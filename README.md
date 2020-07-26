@@ -28,7 +28,7 @@ For augmentation I applied it to both each individual tile and to the entire ima
 
 ## Training
 
-Training was simple: for B0 I trained for 10 epochs and B1 trained for 15 epochs. Both had a batch size of 4 with CosineAnnealingLR scheduler.
+Training was simple: for B0 I trained for 10 epochs and B1 trained for 15 epochs. Both had a batch size of 4 with CosineAnnealingLR scheduler and Adam optimizer.
 
 I used @haqishen's label binning method with BCE loss which can be found [here](https://www.kaggle.com/haqishen/train-efficientnet-b0-w-36-tiles-256-lb0-87).
 
@@ -47,6 +47,8 @@ For my final submission I choose my two best scoring public LB submissions. Unfo
 - Batch Accumulation
 - Regression
 - More epochs
+- RAdam/AdamW
+- Warmup Schedulers Linear/Cosine
 
 ## Final Thoughts
 
