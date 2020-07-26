@@ -34,7 +34,7 @@ I used @haqishen's label binning method with BCE loss which can be found [here](
 
 ## Ensembling and TTA
 
-I used simple ensemble + TTA to blend multiple models which boosted my public leaderboard score.
+I used simple ensemble + TTA to blend multiple models which boosted my public leaderboard score. More detail and my implementation can be found in the PANDA Inference TTA notebook in this repo.
 
 ## Final Submission
 
