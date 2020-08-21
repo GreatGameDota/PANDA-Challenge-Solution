@@ -56,4 +56,4 @@ Finally I worked on this competition for around 4 months and it was a lot of fun
 
 My previous competition: [Deepfake Detection](https://github.com/GreatGameDota/Deepfake-Detection)
 
-My next competition: [placeholder]
+My next competition: [Melanoma Classification](https://github.com/GreatGameDota/SIIM-ISIC-Melanoma-Classification)
