@@ -10,7 +10,7 @@ I will keep this overview short and exclude any long winded stories and detailed
 
 ## Overview
 
-My best solution on the private leaderboard was an ensemble and TTA of 3 models: 1 EfficientNet B0 and 2 EfficientNet B1s. There were all trained on Google Colab Pro for 10-15 epochs. I used the same tiling technique as [@iafoss](https://www.kaggle.com/iafoss) shared early on in the competition.
+My best solution on the private leaderboard was an ensemble and TTA of 3 models: 1 EfficientNet B0 and 2 EfficientNet B1s. They were all trained on Google Colab Pro for 10-15 epochs. I used the same tiling technique as [@iafoss](https://www.kaggle.com/iafoss) shared early on in the competition.
 
 ## Model
 
