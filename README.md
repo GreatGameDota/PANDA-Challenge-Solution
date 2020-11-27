@@ -2,7 +2,7 @@
 
 My 120th place solution and writeup to the [PANDA Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) hosted on Kaggle by Radboud University Medical Center and Karolinska Institute.
 
-![](https://github.com/GreatGameDota/PANDA-Challenge-Solution/blob/master/assets/main.png)
+<img src='https://github.com/GreatGameDota/PANDA-Challenge-Solution/blob/master/assets/main.png?raw=true'>
 
 ## Initial Thoughts
 
